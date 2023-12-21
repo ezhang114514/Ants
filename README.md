@@ -1,7 +1,7 @@
 # Ants-Vs.-SomeBees
 ### 1. Introduction
 
-a tower defense game called Ants Vs. SomeBees, inspired by a famous PopCap game--Plants Vs. Zombies. 
+A tower defense game called Ants Vs. SomeBees, inspired by a famous PopCap game--Plants Vs. Zombies. 
 
 ### 2. Files in this project:
 
